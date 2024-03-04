@@ -2,7 +2,7 @@
 
 Turns you code into a checkerboard pattern
 
-# Usage
+## Usage
 
 ```
 Turns you code into a checkerboard pattern
