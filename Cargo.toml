@@ -2,6 +2,11 @@
 name = "coderboard"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Turns you code into a checkerboard pattern"
+repository = "https://github.com/Antosser/coderboard"
+readme = "README.md"
+keywords = ["cli", "cross-platform", "fun", "checkerboard"]
 
 [dependencies]
 clap = { version = "4.5.1", features = ["derive"] }
