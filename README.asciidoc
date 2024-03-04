@@ -1,0 +1,19 @@
+= Coderboard
+
+Turns you code into a checkerboard pattern
+
+== Usage
+
+....
+Turns you code into a checkerboard pattern
+
+Usage: coderboard.exe <PATH> <HEIGHT>
+
+Arguments:
+  <PATH>    Path to directory or file
+  <HEIGHT>  Height of the checkerboard pattern
+
+Options:
+  -h, --help     Print help
+  -V, --version  Print version
+....
